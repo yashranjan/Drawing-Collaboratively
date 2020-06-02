@@ -1,0 +1,17 @@
+{
+	"name": "DRAWING-COLLABORATIVELY",
+	"version": "1.0.0",
+	"description": "",
+	"main": "SOCKETIO_SERVER.js",
+	"dependencies": {
+		"socket.io": "^2.3.0"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node SOCKETIO_SERVER.js"
+	},
+	"keywords": [],
+	"author": "yashranjan",
+	"license": "ISC"
+}
